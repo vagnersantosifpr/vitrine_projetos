@@ -25,6 +25,19 @@
         "descricao": "Garagem Bonita.",
         "link": "https://carro-chi.vercel.app/"
       }
+,
+      {
+        "nome": "ParkHub",
+        "descricao": "Bem-vindo ao ParkHub, o lugar onde sua paixão por carros ganha vida sem limites. Imagine um espaço totalmente seu, um centro de comando digital onde você não apenas coleciona veículos, mas se torna o mestre de cada um deles. Aqui, você é o arquiteto da sua própria coleção automotiva, moldando desde carros urbanos práticos e eficientes até superesportivos de tirar o fôlego e caminhões robustos prontos para qualquer desafio.<br>Mas o ParkHub é muito mais do que uma vitrine estática. É uma experiência interativa. Assuma o controle total, dê a partida com um único clique e ouça o ronco distinto de cada motor. Sinta a adrenalina ao modular a aceleração, percebendo a diferença visceral de performance entre uma máquina de passeio e um monstro da velocidade.<br>E quando você achar que já explorou tudo, nós conectamos sua garagem ao mundo inteiro. Com nosso painel climático global exclusivo, sua experiência transcende o virtual. Planeje uma viagem imaginária pela Riviera Francesa, consultando antes se o sol estará brilhando em Mônaco para o seu conversível. Ou talvez queira testar a \"tração\" do seu 4x4, simulando uma rota pelas estradas nevadas de Estocolmo.<br>ParkHub é o seu universo automotivo pessoal, onde a engenharia encontra a imaginação e sua garagem se conecta ao pulso do planeta. Seus veículos. Suas regras. O mundo espera por você.",
+        "link": "https://b3-p1-a1.vercel.app"
+      }
+
+      ,
+      {
+        "nome": "SyncDrive",
+        "descricao": "Cansado de planilhas e anotações perdidas? Chegou o SyncDrive, a garagem inteligente que coloca o controle total dos seus veículos na palma da sua mão. Monitore, gerencie e planeje com uma interface intuitiva que conecta você ao seu carro como nunca antes. Desde o registro de manutenções detalhadas até o planejamento de viagens com previsão do tempo integrada, o SyncDrive transforma o cuidado com seu veículo em uma experiência simples, digital e eficiente. Assuma o controle. Sincronize sua direção.",
+        "link": "https://carroanimado-dq9o.vercel.app/"
+      }
 
     ]
   }
