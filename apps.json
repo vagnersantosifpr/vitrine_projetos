@@ -44,25 +44,23 @@
         "descricao": "Site que organiza sua garagem para você",
         "link": "https://garagem-api.vercel.app/"
       }
-      ,
-      {
-        "nome": "Garagem topi do balacobaco",
-        "descricao": "Site que organiza sua garagem para você",
-        "link": "https://garagem-api.vercel.app/"
-      }
-       ,
-      {
-        "nome": "Garagem topi do balacobaco",
-        "descricao": "Site que organiza sua garagem para você",
-        "link": "https://garagem-api.vercel.app/"
-      }
-      
-
        ,
       {
         "nome": "mais_honradocars",
         "descricao": "Bem-vindo ao centro de operações definitivo para o entusiasta automotivo moderno. A Garaga Mais_Honradocars não é apenas um aplicativo; é o ecossistema digital da sua frota. Nós transformamos a maneira como você gerencia, interage e cuida dos seus veículos, combinando um design elegante com a robustez de um sistema de nível profissional.<br>Aqui, cada carro, esportivo ou caminhão não é apenas um item em uma lista, mas uma entidade viva e detalhada, modelada com precisão através da Programação Orientada a Objetos. Sinta o poder de:<br>Gerenciar sua Coleção Completa: Com um backend seguro e persistente em Node.js e MongoDB, sua garagem está sempre sincronizada e salva. Adicione, edite e remova veículos com a confiança de que seus dados estão protegidos.<br>Dominar a Manutenção: Deixe de ser reativo e torne-se preditivo. Agende serviços futuros, consulte históricos detalhados e mantenha cada máquina no auge da sua performance.<br>Planejar Viagens como um Estrategista: Com a nossa integração de previsão do tempo, sua próxima aventura é planejada com inteligência, garantindo que você esteja sempre preparado para as condições da estrada.<br>A Garagem Mais_Honradocars é a fusão perfeita entre a paixão pela estrada e a excelência do código. Sua garagem nunca foi tão poderosa, conectada e inteligente.",
         "link": "https://coisas.netlify.app/"
+      }
+      ,
+      {
+        "nome": "Aguardando nome",
+        "descricao": "Aguardando descrição",
+        "link": "https://garagem-api.vercel.app/"
+      }
+       ,
+      {
+        "nome": "Aguardando nome",
+        "descricao": "Aguardando descrição",
+        "link": "https://garagem-api.vercel.app/"
       }
       
 
