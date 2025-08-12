@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+/*    color: #333; */
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 3em; /* Ajuste o tamanho da fonte conforme necessário */
+    color: #333;
+}
+
+.header-container {
+    background-color: #333; /* Cor cinza escura */
+    padding: 30px; /* Espaço interno */
+    text-align: center; /* Centraliza o conteúdo */
+}
+
+.header-container h1, .header-container h2, .header-container p {
+    color: #fff; /* Texto branco */
+}
+.projeto-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px; /* Ajuste o padding conforme necessário */
+}
+
+.projeto-card {
+    width: 350px;
+    margin: 20px; /* Ajuste o espaçamento entre os cards */
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 4px rgba(0,0,0,0.1);
+    padding: 20px; /* Ajuste o padding interno do card */
+    text-align: center;
+}
+
+.projeto-card img {
+    max-width: 100%; /* Define um tamanho máximo para a imagem */
+    height: auto; /* Ajuste a altura da imagem proporcionalmente */
+    border-radius: 8px;
+}
+
+.projeto-card h2 {
+    margin-top: 10px; /* Ajuste o espaçamento entre o título e a imagem */
+    color: #333;
+}
+
+.projeto-card p {
+    margin-top: 10px; /* Ajuste o espaçamento entre a descrição e o título */
+    color: #666;
+}
+
+.projeto-card a {
+    display: inline-block;
+    padding: 10px 20px; /* Ajuste o padding do botão */
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 15px; /* Ajuste o espaçamento entre o botão e a descrição */
+    transition: background-color 0.3s ease; /* Efeito de transição mais suave */
+}
+
+.projeto-card a:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed; /* Fixa o footer na parte inferior da tela */
+    bottom: 0; /* Posiciona o footer na parte inferior da tela */
+    width: 100%; /* Faz o footer ocupar a largura da tela */
+}
+
+footer p {
+    margin: 3px 0; /* Ajuste o espaçamento entre os parágrafos do footer */
+}
+
+/* Responsividade (para telas menores) */
+@media (max-width: 768px) {
+    .projeto-card {
+        width: calc(50% - 30px); /* Ajuste o tamanho dos cards para telas menores */
+    }
+}
+
+@media (max-width: 480px) {
+    .projeto-card {
+        width: calc(100% - 40px); /* Ajuste o tamanho dos cards para telas ainda menores */
+    }
+}

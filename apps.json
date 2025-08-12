@@ -1,0 +1,19 @@
+{
+  "2025": {
+    "turma": "IIW2024A",
+    "projetos": [
+        {
+        "nome": "Nome do App",
+        "descricao": "Descrição do App",
+        "link": "https://linkdoapp.vercel.app/"
+      }
+      ,
+      {
+        "nome": "Nome do App",
+        "descricao": "Descrição do App",
+        "link": "https://linkdoapp.vercel.app/"
+      }
+      
+    ]
+  }
+}
