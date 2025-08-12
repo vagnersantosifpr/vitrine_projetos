@@ -62,8 +62,66 @@
         "descricao": "Bem-vindos(a) ao estacionamento encantado!! Um espaço moderno e acolhedor, projetado para vc se unir com a tecnologia Com um sistema automatizado, vc pode abrir e fechar o portão de forma mais rápida e segura para vc. Também pode cadastras seu veiculo, agendar revisões do seu carro, e ver sua previsão do tempo. Venha conhecer a sua garagem encantada!",
         "link": "https://beamish-heliotrope-86fc17.netlify.app/"
       }
-      
-
+      ,
+      {
+        "nome": "garargem",
+        "descricao": "uma garagem normal",
+        "link": "https://iiw24-a7-b2-spf3-git-main-eduardin345s-projects.vercel.app/"
+      }
+      ,
+      {
+        "nome": "Velocity Autos",
+        "descricao": "A Garagem Inteligente é uma aplicação web full-stack que oferece uma solução completa para o gerenciamento de veículos. A plataforma permite que os usuários cadastrem sua frota e mantenham um registro detalhado e persistente do histórico de manutenção de cada veículo, associando serviços, custos e datas de forma organizada. Utilizando um backend robusto em Node.js e um banco de dados MongoDB, o sistema garante que todas as informações sejam salvas e relacionadas corretamente. A interface interativa, por sua vez, consome os dados da API para proporcionar uma experiência fluida, onde todas as atualizações acontecem em tempo real, sem a necessidade de recarregar a página.",
+        "link": "https://github.com/emillymendeess/atv7"
+      }
+      ,
+      {
+        "nome": "Tanto Faz",
+        "descricao": "Sem descrição.",
+        "link": "https://projeto-carro-7h8f.vercel.app"
+      }
+       ,
+      {
+        "nome": "Garagem do Geloni",
+        "descricao": "Uma site que organiza a sua garagem.",
+        "link": "https://atividade-b2-p1-a6render.onrender.com/"
+      }
+       ,
+      {
+        "nome": "Garagem IDC",
+        "descricao": "Minha garagem cumpre bem seu papel. É um espaço funcional, onde organizo veículos.",
+        "link": "https://projeto-carro-orpin.vercel.app/"
+      }
+       ,
+      {
+        "nome": "Garagem DreamHouse",
+        "descricao": "Bem-vinda à Dream Car Garage, onde cada veículo é mais que um meio de transporte: é um acessório de luxo! De conversíveis rosa-choque a SUVs prontos para a aventura, nossa garagem tem o carro perfeito para cada ocasião. Acelere seus sonhos com estilo, glamour e um toque de brilho. A vida em plástico é fantástica, e sua garagem também deveria ser! ",
+        "link": "https://garagem-interativa.vercel.app/index.html"
+      }
+,
+      {
+        "nome": "Garagem Dos Alfas",
+        "descricao": "Um espaço dedicado aos entusiastas de carros clássicos e elegantes, a Garagem dos Alfas é o refúgio perfeito para os amantes da icônica marca Alfa Romeo. Com um ambiente vintage e sofisticado, a oficina combina ferramentas modernas com um toque retro, mantendo viva a tradição dos veículos que passam por suas portas.<br>As paredes são adornadas com pôsteres de modelos clássicos, como o Giulietta, o Spider Duetto e o lendário GTA, enquanto o cheiro de óleo e gasolina se mistura ao aroma de café fresco, servido em uma pequena área de convivência para os clientes. Cada canto da garagem exala paixão pela mecânica e design italiano, com mecânicos especializados que tratam cada carro como uma obra de arte.<br>Seja para uma revisão, restauração ou simplesmente para admirar essas máquinas atemporais, a Garagem dos Alfas é o lugar onde a história automotiva ganha vida.",
+        "link": "https://clima-inteligente-2-3423.vercel.app"
+      }
+      ,
+      {
+        "nome": "Garagem Virtual Interativa",
+        "descricao": "A Garagem Virtual Interativa é uma aplicação web completa (full-stack) projetada para gerenciar uma coleção de veículos de forma dinâmica e organizada. Ela permite ao usuário popular sua garagem digital, interagir com os veículos e manter um registro detalhado de suas manutenções.",
+        "link": "https:/projetocarro-gbce.vercel.app"
+      }
+      ,
+      {
+        "nome": "garagem++",
+        "descricao": "melhor garagem q tem ",
+        "link": "https://garage-kohl-eight.vercel.app"
+      }
+ ,
+      {
+        "nome": "Garagem do Yuji",
+        "descricao": "melhor garagem ",
+        "link": "https://vinicius-yuji-miaki-iiw24-a.vercel.app"
+      }
 
     ]
   }
