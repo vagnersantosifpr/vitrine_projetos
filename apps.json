@@ -52,15 +52,15 @@
       }
       ,
       {
-        "nome": "Aguardando nome",
-        "descricao": "Aguardando descrição",
-        "link": "https://garagem-api.vercel.app/"
+        "nome": "Intel-Car",
+        "descricao": "O INTEL-Car é uma plataforma moderna que transforma sua garagem em um ambiente digital, interativo e automatizado. Com ele, você gerencia facilmente seus veículos, faz manutenções guiadas, acompanha o clima em tempo real e interage com um assistente inteligente que ajuda em cada etapa.",
+        "link": "https://garagem-digital.onrender.com/"
       }
        ,
       {
-        "nome": "Aguardando nome",
-        "descricao": "Aguardando descrição",
-        "link": "https://garagem-api.vercel.app/"
+        "nome": "Estacionamento Encantado",
+        "descricao": "Bem-vindos(a) ao estacionamento encantado!! Um espaço moderno e acolhedor, projetado para vc se unir com a tecnologia Com um sistema automatizado, vc pode abrir e fechar o portão de forma mais rápida e segura para vc. Também pode cadastras seu veiculo, agendar revisões do seu carro, e ver sua previsão do tempo. Venha conhecer a sua garagem encantada!",
+        "link": "https://beamish-heliotrope-86fc17.netlify.app/"
       }
       
 
