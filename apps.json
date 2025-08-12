@@ -3,17 +3,29 @@
     "turma": "IIW2024A",
     "projetos": [
         {
-        "nome": "Nome do App",
-        "descricao": "Descrição do App",
-        "link": "https://linkdoapp.vercel.app/"
+        "nome": "Smart Garage Nexus",
+        "descricao": "Smart Garage Nexus – Sua garagem digital no universo automotivo. Uma plataforma online inovadora para apaixonados por carros, oferecendo organização inteligente, histórico de manutenções, lembretes automáticos, documentos na nuvem e muito mais. Tudo em um só lugar, acessível de qualquer dispositivo. Conecte, controle e cuide do seu carro com tecnologia.", 
+        "link": "https://carro6222.vercel.app/"
       }
       ,
       {
-        "nome": "Nome do App",
-        "descricao": "Descrição do App",
-        "link": "https://linkdoapp.vercel.app/"
+        "nome": "Reparaê",
+        "descricao": "Na Reparaê, a gente entende de carro e de gente. Com um atendimento direto, transparente e de confiança, nossa garagem foi criada pra você que quer resolver os problemas do seu carro sem enrolação, sem surpresa e sem dor de cabeça.",
+        "link": "https://projetocarro.vercel.app/?authuser=0"
       }
-      
+      ,
+      {
+        "nome": "Garagem V8",
+        "descricao": "Uma garagem com oq vc precisa para ter o melhor carro possivel...",
+        "link": "https://garagem-api-100.vercel.app/"
+      }
+      ,
+      {
+        "nome": "Garagem do Vinicius",
+        "descricao": "Garagem Bonita.",
+        "link": "https://carro-chi.vercel.app/"
+      }
+
     ]
   }
 }
