@@ -35,6 +35,9 @@ mongoose.connect(process.env.MONGODB_URI)
 const projectsRouter = require('./routes/projects');
 app.use('/api/projects', projectsRouter);
 
+const Project = require('./models/project');
+
+
 
 const seedDB = async () => {
     await mongoose.connect(process.env.MONGODB_URI);
