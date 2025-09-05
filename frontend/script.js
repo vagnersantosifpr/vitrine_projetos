@@ -6,7 +6,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const footerYear = document.getElementById("footer-year");
 
     // URL do seu backend. Mude para o endereço do seu servidor publicado quando for o caso.
-    const API_URL = "http://localhost:3000/api";
+    
+    const API_URL = "https://vitrine-projetos-backend.onrender.com/api";
+
+//    const API_URL = "http://localhost:3000/api";
 
     // Função para carregar e exibir os projetos via API
     const loadProjetos = async (ano) => {
