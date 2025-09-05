@@ -28,7 +28,7 @@
 ,
       {
         "nome": "ParkHub",
-        "descricao": "Bem-vindo ao ParkHub, o lugar onde sua paixão por carros ganha vida sem limites. Imagine um espaço totalmente seu, um centro de comando digital onde você não apenas coleciona veículos, mas se torna o mestre de cada um deles. Aqui, você é o arquiteto da sua própria coleção automotiva, moldando desde carros urbanos práticos e eficientes até superesportivos de tirar o fôlego e caminhões robustos prontos para qualquer desafio.<br>Mas o ParkHub é muito mais do que uma vitrine estática. É uma experiência interativa. Assuma o controle total, dê a partida com um único clique e ouça o ronco distinto de cada motor. Sinta a adrenalina ao modular a aceleração, percebendo a diferença visceral de performance entre uma máquina de passeio e um monstro da velocidade.<br>E quando você achar que já explorou tudo, nós conectamos sua garagem ao mundo inteiro. Com nosso painel climático global exclusivo, sua experiência transcende o virtual. Planeje uma viagem imaginária pela Riviera Francesa, consultando antes se o sol estará brilhando em Mônaco para o seu conversível. Ou talvez queira testar a \"tração\" do seu 4x4, simulando uma rota pelas estradas nevadas de Estocolmo.<br>ParkHub é o seu universo automotivo pessoal, onde a engenharia encontra a imaginação e sua garagem se conecta ao pulso do planeta. Seus veículos. Suas regras. O mundo espera por você.",
+        "descricao": "O ParkHub é um aplicativo de garagem digital que permite aos usuários criar e gerenciar uma coleção de veículos diversificada, de carros urbanos a superesportivos. Mais do que uma simples vitrine, o app oferece uma experiência interativa onde é possível 'ligar' os carros, ouvir o som dos motores e simular a aceleração para sentir a diferença de performance. Seu diferencial é um painel climático global, que conecta a garagem virtual ao mundo real, permitindo que o usuário planeje viagens imaginárias com seus veículos de acordo com as condições meteorológicas de qualquer lugar do planeta. ",
         "link": "https://b3-p1-a1.vercel.app"
       }
 
@@ -47,7 +47,7 @@
        ,
       {
         "nome": "mais_honradocars",
-        "descricao": "Bem-vindo ao centro de operações definitivo para o entusiasta automotivo moderno. A Garaga Mais_Honradocars não é apenas um aplicativo; é o ecossistema digital da sua frota. Nós transformamos a maneira como você gerencia, interage e cuida dos seus veículos, combinando um design elegante com a robustez de um sistema de nível profissional.<br>Aqui, cada carro, esportivo ou caminhão não é apenas um item em uma lista, mas uma entidade viva e detalhada, modelada com precisão através da Programação Orientada a Objetos. Sinta o poder de:<br>Gerenciar sua Coleção Completa: Com um backend seguro e persistente em Node.js e MongoDB, sua garagem está sempre sincronizada e salva. Adicione, edite e remova veículos com a confiança de que seus dados estão protegidos.<br>Dominar a Manutenção: Deixe de ser reativo e torne-se preditivo. Agende serviços futuros, consulte históricos detalhados e mantenha cada máquina no auge da sua performance.<br>Planejar Viagens como um Estrategista: Com a nossa integração de previsão do tempo, sua próxima aventura é planejada com inteligência, garantindo que você esteja sempre preparado para as condições da estrada.<br>A Garagem Mais_Honradocars é a fusão perfeita entre a paixão pela estrada e a excelência do código. Sua garagem nunca foi tão poderosa, conectada e inteligente.",
+        "descricao": "O Garagem Mais_Honradocars é um centro de operações automotivo que transforma o gerenciamento de veículos. Utilizando Programação Orientada a Objetos para modelagem precisa, o aplicativo oferece um sistema robusto para gerenciar uma coleção completa de veículos, com dados persistentes e seguros através de um backend em Node.js e MongoDB. Além do gerenciamento da frota, a plataforma se destaca por funcionalidades de manutenção preditiva, permitindo agendar serviços e consultar históricos, e um planejador de viagens inteligente que integra previsão do tempo para otimizar qualquer trajeto.",
         "link": "https://coisas.netlify.app/"
       }
       ,
@@ -71,7 +71,7 @@
       ,
       {
         "nome": "Velocity Autos",
-        "descricao": "A Garagem Inteligente é uma aplicação web full-stack que oferece uma solução completa para o gerenciamento de veículos. A plataforma permite que os usuários cadastrem sua frota e mantenham um registro detalhado e persistente do histórico de manutenção de cada veículo, associando serviços, custos e datas de forma organizada. Utilizando um backend robusto em Node.js e um banco de dados MongoDB, o sistema garante que todas as informações sejam salvas e relacionadas corretamente. A interface interativa, por sua vez, consome os dados da API para proporcionar uma experiência fluida, onde todas as atualizações acontecem em tempo real, sem a necessidade de recarregar a página.",
+        "descricao": "A Garagem Inteligente é uma solução web full-stack para o gerenciamento completo de veículos. A plataforma permite cadastrar frotas e manter um registro detalhado e persistente de manutenções, associando serviços, custos e datas. Sustentada por um backend robusto em Node.js e banco de dados MongoDB, o sistema garante a integridade dos dados, que são consumidos por uma interface fluida via API, proporcionando ao usuário uma experiência com atualizações em tempo real.",
         "link": "https://github.com/emillymendeess/atv7"
       }
       ,
@@ -101,7 +101,7 @@
 ,
       {
         "nome": "Garagem Dos Alfas",
-        "descricao": "Um espaço dedicado aos entusiastas de carros clássicos e elegantes, a Garagem dos Alfas é o refúgio perfeito para os amantes da icônica marca Alfa Romeo. Com um ambiente vintage e sofisticado, a oficina combina ferramentas modernas com um toque retro, mantendo viva a tradição dos veículos que passam por suas portas.<br>As paredes são adornadas com pôsteres de modelos clássicos, como o Giulietta, o Spider Duetto e o lendário GTA, enquanto o cheiro de óleo e gasolina se mistura ao aroma de café fresco, servido em uma pequena área de convivência para os clientes. Cada canto da garagem exala paixão pela mecânica e design italiano, com mecânicos especializados que tratam cada carro como uma obra de arte.<br>Seja para uma revisão, restauração ou simplesmente para admirar essas máquinas atemporais, a Garagem dos Alfas é o lugar onde a história automotiva ganha vida.",
+        "descricao": "A Garagem dos Alfas é um espaço exclusivo dedicado aos entusiastas de carros clássicos da marca Alfa Romeo. O local combina um ambiente vintage e sofisticado, com decoração retrô e uma área de convivência, com a expertise de uma oficina moderna. Com mecânicos especializados que tratam cada veículo como uma obra de arte, a garagem oferece serviços que vão desde revisões e restaurações completas até ser um ponto de encontro para admiradores da história e do design italiano.",
         "link": "https://clima-inteligente-2-3423.vercel.app"
       }
       ,
@@ -121,6 +121,18 @@
         "nome": "Garagem do Yuji",
         "descricao": "melhor garagem ",
         "link": "https://vinicius-yuji-miaki-iiw24-a.vercel.app"
+      }
+ ,
+      {
+        "nome": "Luanet Garage",
+        "descricao": " Bem-vindo à Garagem Inteligente, um hub completo para entusiastas de automóveis. Aqui, você pode assumir o controle de simuladores interativos de carros, motos e caminhões, gerenciando tudo, desde a ignição até a manutenção. Além da simulação, a plataforma permite registrar e gerenciar uma frota de veículos real, com um histórico de manutenção completo conectado a um banco de dados. Para aprimorar a experiência, a garagem também oferece informações úteis como a previsão do tempo para sua próxima viagem e dicas da comunidade. ",
+        "link": "https://garagem-inteligente-roit.vercel.app/"
+      }
+   ,
+      {
+        "nome": "Nicollas Guedes Dos Santos Car Store Santos Drive",
+        "descricao": "A Nicollas Guedes dos Santos Car Store – Santos Drive se posiciona como uma loja de veículos seminovos e usados que busca elevar a experiência de compra. Com foco em transparência, sofisticação e atendimento personalizado, a empresa oferece um catálogo criteriosamente selecionado, garantindo carros de alta qualidade e procedência. A proposta é guiar o cliente com consultoria especializada, transformando a aquisição de um carro em um processo seguro e memorável, que vai além da simples negociação e foca na construção de um relacionamento de confiança.",
+        "link": "https://meucarrobonito.vercel.app/"
       }
 
     ]
