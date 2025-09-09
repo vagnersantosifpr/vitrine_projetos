@@ -134,7 +134,15 @@
         "descricao": "A Nicollas Guedes dos Santos Car Store – Santos Drive se posiciona como uma loja de veículos seminovos e usados que busca elevar a experiência de compra. Com foco em transparência, sofisticação e atendimento personalizado, a empresa oferece um catálogo criteriosamente selecionado, garantindo carros de alta qualidade e procedência. A proposta é guiar o cliente com consultoria especializada, transformando a aquisição de um carro em um processo seguro e memorável, que vai além da simples negociação e foca na construção de um relacionamento de confiança.",
         "link": "https://meucarrobonito.vercel.app/"
       }
+       ,
+      {
+        "nome": "Garagem Virtual do Pedro",
+        "descricao": "Garagem Virtual do Pedro",
+        "link": "https://carro-digital.vercel.app/"
+      }
+
 
     ]
   }
+
 }
