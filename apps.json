@@ -96,7 +96,7 @@
       {
         "nome": "Garagem DreamHouse",
         "descricao": "Bem-vinda à Dream Car Garage, onde cada veículo é mais que um meio de transporte: é um acessório de luxo! De conversíveis rosa-choque a SUVs prontos para a aventura, nossa garagem tem o carro perfeito para cada ocasião. Acelere seus sonhos com estilo, glamour e um toque de brilho. A vida em plástico é fantástica, e sua garagem também deveria ser! ",
-        "link": "https://garagem-interativa.vercel.app/index.html"
+        "link": "https://garagem-dream-house.vercel.app"
       }
 ,
       {
@@ -152,4 +152,5 @@
   }
 
 }
+
 
