@@ -126,7 +126,7 @@
       {
         "nome": "Luanet Garage",
         "descricao": " Bem-vindo à Garagem Inteligente, um hub completo para entusiastas de automóveis. Aqui, você pode assumir o controle de simuladores interativos de carros, motos e caminhões, gerenciando tudo, desde a ignição até a manutenção. Além da simulação, a plataforma permite registrar e gerenciar uma frota de veículos real, com um histórico de manutenção completo conectado a um banco de dados. Para aprimorar a experiência, a garagem também oferece informações úteis como a previsão do tempo para sua próxima viagem e dicas da comunidade. ",
-        "link": "https://garagem-inteligente-roit.vercel.app/"
+        "link": "https://garageminteligente-3.onrender.com/"
       }
    ,
       {
@@ -152,5 +152,6 @@
   }
 
 }
+
 
 
