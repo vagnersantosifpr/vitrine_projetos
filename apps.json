@@ -146,12 +146,18 @@
         "descricao": "Garagem da Hello Kitty",
         "link": "https://delightful-dolphin-fb4ef6.netlify.app/"
       }
-      
+      ,
+      {
+        "nome": "Garagem Pro",
+        "descricao": "Garagem Pro",
+        "link": "https://carro-interativo.vercel.app/"
+      }
 
     ]
   }
 
 }
+
 
 
 
