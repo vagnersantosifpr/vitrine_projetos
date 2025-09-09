@@ -140,9 +140,16 @@
         "descricao": "Garagem Virtual do Pedro",
         "link": "https://carro-digital.vercel.app/"
       }
-
+,
+      {
+        "nome": "Garagem da Hello Kitty",
+        "descricao": "Garagem da Hello Kitty",
+        "link": "https://delightful-dolphin-fb4ef6.netlify.app/"
+      }
+      
 
     ]
   }
 
 }
+
