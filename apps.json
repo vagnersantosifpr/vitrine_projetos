@@ -29,7 +29,7 @@
       {
         "nome": "ParkHub",
         "descricao": "O ParkHub é um aplicativo de garagem digital que permite aos usuários criar e gerenciar uma coleção de veículos diversificada, de carros urbanos a superesportivos. Mais do que uma simples vitrine, o app oferece uma experiência interativa onde é possível 'ligar' os carros, ouvir o som dos motores e simular a aceleração para sentir a diferença de performance. Seu diferencial é um painel climático global, que conecta a garagem virtual ao mundo real, permitindo que o usuário planeje viagens imaginárias com seus veículos de acordo com as condições meteorológicas de qualquer lugar do planeta. ",
-        "link": "https://b3-p1-a1.vercel.app"
+        "link": "https://garagem-inteligente-certo.vercel.app/"
       }
 
       ,
@@ -157,6 +157,7 @@
   }
 
 }
+
 
 
 
